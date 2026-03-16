@@ -1,0 +1,19 @@
+# AI Employee - Bronze Tier
+# Python dependencies for watcher scripts
+
+# Core dependencies (Bronze Tier)
+# No external dependencies required for base watchers!
+# Uses only Python standard library: pathlib, logging, hashlib, time, abc
+
+# Optional: For advanced watchers (Silver/Gold tier)
+# watchdog>=3.0.0       # File system events (alternative to polling)
+# google-api-python-client>=2.0.0  # Gmail API
+# google-auth-httplib2>=0.1.0      # Gmail authentication
+# google-auth-oauthlib>=0.5.0      # Gmail OAuth
+# playwright>=1.40.0    # WhatsApp Web automation
+# requests>=2.28.0      # HTTP requests for API calls
+
+# Development dependencies
+# pytest>=7.0.0         # Testing
+# black>=23.0.0         # Code formatting
+# flake8>=6.0.0         # Linting

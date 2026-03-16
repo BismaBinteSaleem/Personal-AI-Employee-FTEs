@@ -1,0 +1,11 @@
+This is a test file for the AI Employee File System Watcher.
+
+Purpose: Verify that the Bronze Tier implementation is working correctly.
+
+Test Date: 2026-03-16
+
+When this file is dropped, the watcher should:
+1. Detect the new file
+2. Calculate its hash
+3. Create an action file in /Needs_Action
+4. Log the action
